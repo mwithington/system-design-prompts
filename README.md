@@ -33,6 +33,7 @@ To get started with this repository, follow these steps:
 
 ## Repository Structure
 
+```
 The repository is structured as follows:
 ├── problem-1/
 │   ├── README.md
@@ -44,6 +45,7 @@ The repository is structured as follows:
 ├── CODE_OF_CONDUCT.md
 ├── LICENSE
 └── README.md
+```
 
 - Each problem is contained within its own folder, named `problem-1`, `problem-2`, and so on.
 - Inside each problem folder, you'll find a `README.md` file containing the description of the system design question.
